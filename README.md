@@ -1,5 +1,7 @@
 # Kodluyoruz Ilk Repo
+
 ![resim](https://i.hizliresim.com/167trub.PNG)
+
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Frond-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor
 
 ## Installation
